@@ -1,0 +1,3 @@
+us.b2cplayer.cloudns.org
+jp.b2cplayer.cloudns.org
+hk.b2cplayer.cloudns.org
