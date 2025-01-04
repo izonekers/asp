@@ -24,7 +24,6 @@ surina.ns.cloudflare.com
 carioca.ns.cloudflare.com
 crystal.ns.cloudflare.com
 eve.ns.cloudflare.com
-eleanor.ns.cloudflare.com
 keira.ns.cloudflare.com
 annabel.ns.cloudflare.com
 emely.ns.cloudflare.com
@@ -47,7 +46,6 @@ peaches.ns.cloudflare.com
 liberty.ns.cloudflare.com
 raina.ns.cloudflare.com
 naya.ns.cloudflare.com
-kimora.ns.cloudflare.com
 lilyana.ns.cloudflare.com
 sierra.ns.cloudflare.com
 elly.ns.cloudflare.com
