@@ -64,7 +64,6 @@ colette.ns.cloudflare.com
 magali.ns.cloudflare.com
 journey.ns.cloudflare.com
 alexandra.ns.cloudflare.com
-bethany.ns.cloudflare.com
 ariella.ns.cloudflare.com
 sandra.ns.cloudflare.com
 bingo.ns.cloudflare.com
@@ -72,7 +71,6 @@ paige.ns.cloudflare.com
 davina.ns.cloudflare.com
 bailey.ns.cloudflare.com
 itzel.ns.cloudflare.com
-joselyn.ns.cloudflare.com
 jillian.ns.cloudflare.com
 maeve.ns.cloudflare.com
 izabella.ns.cloudflare.com
